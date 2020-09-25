@@ -2,7 +2,7 @@
 
 ## Project Link
 
-- [Link](https://telloapp.netlify.app/)
+- [Tello](https://telloapp.netlify.app/)
 
 ## Project Schedule
 |  Day | Deliverable | Status
